@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TabLayoutExercise_v1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#D2649A</item>
+        <item name="colorPrimaryVariant">#F6FAB9</item>
+    </style>
+
+    <style name="Theme.TabLayoutExercise_v1" parent="Base.Theme.TabLayoutExercise_v1" />
+</resources>
